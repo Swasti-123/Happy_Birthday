@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+  background-color: white; 
+  border: ridge darkviolet 10px;
+}
+
+#button1{
+  color: darkmagenta;
+  background-color: turquoise;
+  border
+}
